@@ -1,4 +1,4 @@
-# Not-Tree-Kingdom-Strategy
+# Not Three Kingdom Strategy
 A simple game based on rock paper scissor that implement Firebase features
 
 # Resources
